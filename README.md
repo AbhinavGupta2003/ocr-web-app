@@ -6,7 +6,7 @@ Image Upload: Supports uploading images in PNG, JPG, and JPEG formats.
 Text Extraction (OCR): Extracts text from the uploaded images using EasyOCR.
 Keyword Search: Allows users to search for specific keywords in the extracted text.
 Demo
-You can access the live demo of the application here: OCR Web Application on Hugging Face
+You can access the live demo of the application here: (https://huggingface.co/spaces/abhinav785/ocr-app)
 
 Installation
 To run this project locally, follow these steps:
